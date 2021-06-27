@@ -16,3 +16,7 @@
   </a>&nbsp;&nbsp;
  
 </p>
+
+## Bizness
+- :paperclip: [My Resume/CV](https://github.com/zzak00/zzak00/resume/abderrazzak bajjou.pdf)
+- :email: abderrazak.bajjou@gmail.com
