@@ -2,7 +2,7 @@
 <div align='left'>
 
 ## ➜  wer bin ich ? 
->  I am a Data Science student and I am interested in learning everything.
+>  I am a Data Scientist and I am interested in learning everything.
 </div>
 
 ## Where to find me :
