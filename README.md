@@ -17,7 +17,6 @@
  
 </p>
 
-<div>
 ## ➜  Coding Stats
 <!--START_SECTION:waka-->
 ```text
@@ -27,4 +26,3 @@ Java         1 hr 27 mins    ██░░░░░░░░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
-</div>
