@@ -17,8 +17,8 @@
  
 </p>
 
-## ➜ Coding Stats
-
+<div>
+## ➜  Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Python       15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
@@ -27,3 +27,4 @@ Java         1 hr 27 mins    ██░░░░░░░░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
+</div>
