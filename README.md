@@ -17,6 +17,13 @@
  
 </p>
 
-## Bizness
-- :paperclip: [My Resume/CV](https://github.com/zzak00/zzak00/resume/abderrazzak_bajjou.pdf)
-- :email: abderrazak.bajjou@gmail.com
+## Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Python       15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+Matlab       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Java         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+<!--END_SECTION:waka-->
