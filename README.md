@@ -2,7 +2,6 @@
 <div align='left'>
 
 ## ➜  wer bin ich ? 
->  I am a Data Science student at the Institute of Science, Technology & Innovation (IST&I), within the Mohammed VI Polytechnic University (UM6P), interested in everything related to the field of Data Science, Big Data Analysis, Machine Learning, Deep learning, Artificial Intelligence, Business Intelligence and CyberSecurity.
-
+>  I am a Data Science student and I am interested in learning everything.
 </div>
 
