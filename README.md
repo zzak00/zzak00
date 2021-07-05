@@ -1,5 +1,5 @@
 <!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=zzak00&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="360" >-->
-(https://github-readme-stats.vercel.app/api?username=zzak00&show_icons=true&theme=radical)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zzak00&show_icons=true&theme=radical" width="360" >
 
 <div align='left'>
 
