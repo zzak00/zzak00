@@ -6,7 +6,7 @@
 >  I am a Data Scientist and I am interested in learning everything.
 </div>
 
-## ➜ Where to find me :
+## ➜ Where to find me ?
 <p align='center'>
 <p align='left'>
   <a href="https://www.facebook.com/lion.abderrazak10/">
