@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zzak00&show_icons=true&hide_border=true&theme=dark&hide_title=true" width="380" >
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zzak00&show_icons=true&hide_border=false&theme=dark&hide_title=true" width="380" >
 <div align='left'>
   
 ## ➜  Wer Bin Ich ?
