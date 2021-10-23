@@ -3,7 +3,7 @@
   
 ## ➜  Wer Bin Ich ?
   
->  I am a Data Science student at UM6P and I am interested in learning everything.
+>  I am a Data Science student and I am interested in learning everything.
 </div>
 
 ## ➜ Where To Find Me ?
