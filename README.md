@@ -3,7 +3,7 @@
   
 ## ➜  Wer Bin Ich ?
   
->  I am a Data Science student and I am interested in learning everything.
+>  I am a Data Science student and I am interested in AI applications, Embedded systems, Mechanism Design, Blockchain and Web 3.0 ...
 </div>
 
 ## ➜ Where To Find Me ?
