@@ -1,6 +1,6 @@
 ## ➜  Wer Bin Ich ?
   
->  I am a Machine Learning Engineer and I am interested in AI applications, Embedded systems, Mechanism Design, Blockchain and Web 3.0 ...
+>  Machine Learning Engineer and I am interested in AI applications, Embedded systems, Mechanism Design, Blockchain and Web 3.0 ...
 </div>
 
 ## ➜ Where To Find Me ?
